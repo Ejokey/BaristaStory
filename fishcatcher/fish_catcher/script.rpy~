@@ -1,0 +1,8 @@
+﻿# Minigame Testing
+
+label start:
+    menu:
+        "Fish Catcher":
+            jump fish_catcher
+        "Racing":
+            jump racing
